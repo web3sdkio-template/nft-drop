@@ -4,8 +4,8 @@ In this example, you can create your own NFT Drop minting page just by customisi
 
 ## Tools
 
-- [**NFT Drop**](https://portal.web3sdk.io/pre-built-contracts/nft-drop): to create a lazy-minted ERC721 NFT Collection that our users can claim.
-- [**React SDK**](https://docs.web3sdk.io/react): to enable users to connect their wallets with the [useMetamask](https://portal.web3sdk.io/react/react.usemetamask) hook, and access hooks such as [useNFTDrop](https://portal.web3sdk.io/react/react.usenftdrop) to interact with the NFT drop contract.
+- [**NFT Drop**](https://docs.web3sdk.io/pre-built-contracts/nft-drop): to create a lazy-minted ERC721 NFT Collection that our users can claim.
+- [**React SDK**](https://docs.web3sdk.io/react): to enable users to connect their wallets with the [useMetamask](https://docs.web3sdk.io/react/react.usemetamask) hook, and access hooks such as [useNFTDrop](https://docs.web3sdk.io/react/react.usenftdrop) to interact with the NFT drop contract.
 - [**TypeScript SDK**](https://docs.web3sdk.io/typescript): to view the claimed supply, total supply, and mint NFTs from the drop.
 
 ## Using This Repo
@@ -22,7 +22,7 @@ npx web3sdkio create --template nft-drop
 
 Head to the web3sdkio dashboard and create your own NFT Drop contract.
 
-You can learn how to do that with our guide [Release an NFT drop on your own site without writing any code](https://portal.web3sdk.io/guides/release-an-nft-drop-with-no-code#create-a-drop-contract).
+You can learn how to do that with our guide [Release an NFT drop on your own site without writing any code](https://docs.web3sdk.io/guides/release-an-nft-drop-with-no-code#create-a-drop-contract).
 
 Be sure to configure a **name**, **description**, and **image** for your NFT drop in the dashboard.
 
@@ -53,4 +53,4 @@ const activeChainId = ChainId.Mumbai;
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).

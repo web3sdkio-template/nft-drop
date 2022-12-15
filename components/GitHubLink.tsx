@@ -2,7 +2,7 @@ import styles from "../../styles/Web3sdkio.module.css";
 import React from "react";
 
 export default function Web3sdkioGuideFooter() {
-  const url = "https://github.com/web3sdkio-example/custom-minting-page";
+  const url = "https://github.com/web3sdkio-template/custom-minting-page";
   return (
     <>
       <div
